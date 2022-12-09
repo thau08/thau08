@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm thau08</h1>
-<h3 align="center">Growing up in data area - from Braz(s)il</h3>
+<h1 align="center">Olá 👋, eu sou a thau08</h1>
+<h3 align="center">Me desenvolvendo na área de dados</h3>
 
-- 🔭 I’m currently working on an different area (chemical industry) **No project Yet**
+- 🔭 Atualmente trabalhando em uma área diferente (indústria química)
 
-- 🤝 I’ve already work as an Data Analyst at a Collection Advisory Agency **-**
+- 🤝 Já trabalhei como analista de dados em uma empresa de cobrança, utilizando SQL e RStudio amplamente.
 
-- 👯 I’m looking to collaborate on data analytics and data science **No project Yet**
-
-- 🌱 I’m currently learning SQL, Phyton and general standards about Data Analytics **No project Yet**
+- 🌱 Estou estudando SQL, Phyton e conceitos gerais sobre Data Analytics.
 
 
 <h3 align="left">Languages and Tools:</h3>
